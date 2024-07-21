@@ -1,20 +1,19 @@
-RestaurantAPI to aplikacja zaprojektowana do zarządzania bazą danych restauracji.
+RestaurantAPI is an application designed to manage restaurant database.
 
-Funkcjonalności:
+Functionalities:
 
-Rejestracja i logowanie użytkownika
+User registration and login
 
-Dodawanie restauracji	
+Adding restaurants
 
-Pobieranie danych restauracji
+Downloading restaurant data
 
-Zmiana danych restauracji
+Changing restaurant data
 
-Usuwanie restauracji
+Deleting a restaurant
 
-Pobieranie danych dań
+Downloading restaurant data
 
-Dodawanie oraz usuwanie dań
+Adding and deleting dishes
 
-Aplikacja umożliwia migrację bazy danych do systemu MSSQL.
-Przy pierwszym uruchomieniu aplikacja automatycznie wypełni bazę danych przykładowymi restauracjami i daniami.
+The application allows you to migrate the database to the MSSQL system. When you run the application for the first time, it will automatically populate the database with sample restaurants and dishes.
