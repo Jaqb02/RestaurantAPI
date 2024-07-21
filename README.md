@@ -2,7 +2,7 @@ RestaurantAPI to aplikacja zaprojektowana do zarządzania bazą danych restaurac
 
 Funkcjonalności:
 
-Rejestracja i logowanie użytkownika.
+Rejestracja i logowanie użytkownika
 
 Dodawanie restauracji	
 
